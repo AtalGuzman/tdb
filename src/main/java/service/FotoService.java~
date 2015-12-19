@@ -20,7 +20,7 @@ import models.Foto;
 //import model.Film;
 //import model.FilmActor;
 
-@Path("/fotos")
+@Path("/actors")
 public class FotoService {
 	/*@EJB 
 	FilmFacade filmFacadeEJB;
